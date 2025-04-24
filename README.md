@@ -1,2 +1,2 @@
-pip install .
-pip-size only in windows now
+1.How to download? Go to the setup.py directory and use pip install .	
+2.How to use? pip-size
