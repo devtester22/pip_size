@@ -1,1 +1,2 @@
-# pip_size
+pip install .
+pip-size only in windows now
